@@ -1,0 +1,22 @@
+.product-card {
+    border: 2px solid #000000;
+    border-radius: 12px;
+    background-color: #79dbea;
+    padding: 16px;
+    margin: 16px 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.product-card:hover {
+    transform: scale(1.02);
+}
+
+.product-card h2 {
+    color: #000000;
+    margin: 0;
+}
+
+.product-card p {
+    color: #ff0000;
+}
