@@ -1,7 +1,7 @@
 import React from 'react';
-import './App.css'; 
+import './App.css';
 import Text from './components/Text';
-import ProductCard from './components/ProductCard';
+import ProductCard from './components/ProductCard.jsx';
 import Button from './components/Button';
 
 const App = () => {
